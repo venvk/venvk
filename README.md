@@ -1,8 +1,6 @@
-### 🚀 Selected Projects
+#### VenvVPN — Multi-Protocol Anti-Censorship VPN Platform · Sold
 
-#### VenvVPN — Multi-Protocol Anti-Censorship VPN Platform
-
-![Sold](https://img.shields.io/badge/status-sold-2ea44f?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![aiogram](https://img.shields.io/badge/aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Xray](https://img.shields.io/badge/Xray-VLESS_%2B_REALITY-7C3AED?style=flat-square)
+![Sold](https://img.shields.io/badge/SOLD-D73A49?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![aiogram](https://img.shields.io/badge/aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Xray](https://img.shields.io/badge/Xray-VLESS_%2B_REALITY-7C3AED?style=flat-square)
 
 #### [python-pro](https://github.com/Kigrok/python-pro) — AI Coding Standard for Senior-Grade Python
 
